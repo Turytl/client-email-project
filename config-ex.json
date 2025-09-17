@@ -1,0 +1,8 @@
+{
+    "smtp_server": "your server link",
+    "smtp_port": 123,
+    "username": "smpt username",
+    "password": "pass",
+    "sender": "sender email",
+    "threshold_days": 30
+}
